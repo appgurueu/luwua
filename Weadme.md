@@ -5,9 +5,9 @@ wewcome to the luwua programming language! :3
 it wooks wike wis:
 
 ```luwua
-fow uwu = 1, 3 do
-	pwint(uwu)
-end
+fow i = 1, 3 owo
+	pwint(i)
+uwu
 ```
 
 to uwse it inside mewntest, do
