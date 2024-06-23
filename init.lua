@@ -6,6 +6,4 @@ end
 
 luwua = require"luwua"
 
-luwua.dofile(minetest.get_modpath(minetest.get_current_modname()) .. "/test.luwua")
-
 require = old_require -- luacheck: ignore
